@@ -1,0 +1,11 @@
+# Ignore dataset and model files
+*.csv
+*.pkl
+*.ipynb
+*.zip
+*.png
+*.jpg
+
+# Ignore temporary or large files
+__pycache__/
+.DS_Store
