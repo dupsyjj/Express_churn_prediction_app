@@ -1,11 +1,7 @@
-# Ignore dataset and model files
-*.csv
 *.pkl
-*.ipynb
-*.zip
+*.csv
 *.png
-*.jpg
-
-# Ignore temporary or large files
+*.ipynb
+*.ipynb_checkpoints/
 __pycache__/
 .DS_Store
