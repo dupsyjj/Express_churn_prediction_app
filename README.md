@@ -112,14 +112,7 @@ Run the Streamlit app:streamlit run app.py
 
 
 
-       App Preview
-
-App Screenshot
-
-Here’s a screenshot of the working app interface:
-
-![App Screenshot](https://github.com/dupsyjj/Express_churn_prediction_app/blob/main/assets/screenshot.png?raw=true)
-
+     
 
 
 
